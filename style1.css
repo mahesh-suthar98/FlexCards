@@ -17,8 +17,8 @@ html, body {
 }
 
 #card{
-    height: 45%;
-    width: 20%;
+    height: 600px;
+    width: 400px;
     position: relative;
     overflow: hidden;
 }
